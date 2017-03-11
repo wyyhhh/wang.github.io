@@ -1,6 +1,6 @@
-﻿# # hello everyone
+﻿## hello everyone
 
-This is my first page.
+# This is my first page.
 
 大神真棒！
 
